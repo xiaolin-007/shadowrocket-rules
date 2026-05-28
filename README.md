@@ -8,4 +8,4 @@ Shadowrocket（小火箭）分流规则，模块化的规则集合，支持 直�
          内有多组分流规则 按应用场景分组
 
 极简规则：Mini-AntiLeak.conf
-         极简方式防DNS泄露 无分流
+         极简方式防DNS泄露

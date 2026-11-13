@@ -10,5 +10,5 @@ Shadowrocket（小火箭）分流规则，模块化的规则集合，支持 直�
 极简规则：Mini-AntiLeak.conf
          极简方式防DNS泄露
 
-自定义规则：Group-AntiLeak.conf
+自定义规则：Custom-Rules.conf
            可自行添加删减某个域名规则
